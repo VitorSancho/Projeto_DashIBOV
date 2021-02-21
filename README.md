@@ -14,7 +14,7 @@ Como tinha dificuldade para comparar papeis de um mesmo setor, raspei os dados d
 
 ![Screenshot](dashPowerBI.png)
 
-O Projeto é aberto para que melhore a vida de qualquer pessoa que enfrentava o mesmo problema que eu.
+O Projeto é aberto para que melhore a vida de qualquer pessoa que enfrenta o mesmo problema que eu.
 Usem sem moderação.
 
 
