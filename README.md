@@ -9,7 +9,7 @@ Sempre tive uma mentalidade de poupador, desde pequeno. Ao começar a trabalhar 
 
 ![Alt Text](https://media.giphy.com/media/bMycGOQLESDCEnLNUz/giphy.gif)
 
-A principal ideia da minha carteira é ser exposta aos mais diversos setores da ecomonia, comprando as melhores empresas de cada. 
+A principal ideia da minha carteira é ser exposta aos mais diversos setores da economia, comprando as melhores empresas de cada um. 
 Como tinha dificuldade para comparar papeis de um mesmo setor, raspei os dados do site fundamentos e criei uma visualização no Power BI. Utilizo muito o dashboard para decidir sobre a insersão de um determinado papel na minha carteira.
 
 ![Screenshot](dashPowerBI.png)
